@@ -131,3 +131,10 @@ The exact sequence of operations depends on the firmware uploaded to the ESP32.
 **Domain:** Embedded Systems / IoT  
 **Controller:** ESP32  
 **Purpose:** Student identification and school bus safety support#
+
+## 👥 Contributors
+
+- Sahil Laghave — Project Lead
+- Rohit Somase  — Hardware Integration
+- Shraddha Kandalkar — Programming
+- Alfiya Shaikh — Testing and Documentation
